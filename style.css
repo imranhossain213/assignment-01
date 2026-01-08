@@ -144,3 +144,43 @@ margin-bottom: 16px;
   font-size: 16px;
   color: #627382;
 }
+.brains{
+margin-bottom: 120px;
+display: flex;
+gap: 60px;
+align-items: center;
+
+}
+.brains img{
+  width: 600px;
+  vertical-align: middle;
+}
+.brains-content{
+
+}
+.brains-content h5{
+  color: #469165;
+  font-weight: 500;
+  margin-bottom: 16px;
+  text-transform: uppercase;
+}
+.brains-content h3{
+  font-size: 40px;
+  color: #001931;
+  margin-bottom: 16px;
+}
+.brains-content .sub-title{
+  font-size: 16px;
+  color: #627382;
+ line-height: 20px;
+ margin-bottom: 40px;
+}
+.brain-icon{
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  color:#001931;
+}
+.brain-icon img{
+  width: 20px;
+}
