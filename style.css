@@ -9,7 +9,6 @@ body{
 }
 /* Common Style  */
 .container{
-  border: 2px solid red;
   width: 85%;
   max-width: 1360px;
   margin: 0 auto;
@@ -202,4 +201,32 @@ align-items: center;
 }
 .early-access p:last-child{
   margin-top: 16px;
+}
+footer{
+  padding: 120px 0 60px ;
+  background-color: #001931;
+}
+.footer-section{
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid  #E5E7EB;
+  padding-bottom: 40px;
+}
+.social P{
+  font-size: 20px;
+  font-weight: 500;
+  color: #FFFFFF;
+  margin-bottom: 16px;
+}
+.social i{
+  background-color: #FFFFFF;
+  padding: 3px;
+  padding-right: 5px;
+  margin-right: 10px;
+  border-radius: 100%;
+}
+.last-footer{
+  color: #FAFAFA;
+  text-align: center;
+  margin-top: 30px;
 }
