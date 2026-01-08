@@ -21,11 +21,17 @@ body{
   background: #469165;
   border: none;
   border-radius: 4px;
+  cursor: pointer;
 }
+
 .top-btn img{
   width: 16px;
   position: relative;
   top: 2px;
+}
+.btn:hover{
+  background: #2b4335be;
+  color: #FFFFFF;
 }
 /* Main Style  */
 nav{
@@ -70,6 +76,10 @@ nav .menu a{
   color: #469165;
   border-radius: 1000px;
 }
+.banner-btn .top-btn:hover{
+   background: #2b4335be;
+  color: #FFFFFF;
+}
 
 .banner-container h1{
   font-size: 72px;
@@ -92,6 +102,10 @@ nav .menu a{
 
 .banner-button .btn{
   margin-right: 16px;
+}
+.banner-button .btn:hover{
+   background: #2b4335be;
+  color: #FFFFFF;
 }
 .top-btn:last-child{
   background: none;
