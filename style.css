@@ -184,3 +184,22 @@ align-items: center;
 .brain-icon img{
   width: 20px;
 }
+.early-access{
+  margin-bottom: 120px;
+  text-align: center;
+  padding: 80px 0;
+  background: #F7F6F2;
+}
+.early-content h2{
+  font-size: 40px;
+  color: #001931;
+  margin-bottom: 16px;
+}
+.early-access p{
+  color: #627382;
+  line-height: 24px;
+  margin-bottom: 24px;
+}
+.early-access p:last-child{
+  margin-top: 16px;
+}
