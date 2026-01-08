@@ -57,6 +57,7 @@ nav .menu a{
   background: url(assets/hero-bg.png);
   background-repeat: no-repeat;
   padding: 115px 0;
+  margin-bottom: 30px;
 }
 .banner-container{
   text-align: center;
@@ -99,4 +100,47 @@ nav .menu a{
 }
 .top-btn:last-child img{
   margin-right: 6px;
+}
+
+.notes{
+  margin-bottom: 120px;
+}
+.notes .notes-section{
+  text-align: center;
+}
+.notes-section h1{
+  color: #001931;
+font-size: 50px;
+margin-bottom: 16px;
+}
+.notes-section p{
+  color: #627382;
+  margin-bottom: 44px;
+}
+.card-section{
+  display: flex;
+  gap: 24px;
+  text-align: center;
+}
+.card-section .card{
+ width: 322px;
+ padding:24px 10px;
+ border-radius: 8px;
+ box-shadow: 0 0 8px 0 #0000003a;
+}
+.card img{
+  background:#F95555;
+  padding: 10px;
+  border-radius: 100%;
+  margin-bottom: 16px;
+
+}
+.card h4{
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+.card p{
+  font-size: 16px;
+  color: #627382;
 }
