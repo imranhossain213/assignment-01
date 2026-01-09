@@ -59,7 +59,7 @@ nav .menu a{
   margin: 0 auto;
   max-width: 1600px;
   height: 674px;
-  background: url(assets/hero-bg.png);
+  background:linear-gradient(#00193122) ,url(assets/hero-bg.png);
   background-repeat: no-repeat;
   padding: 115px 0;
   margin-bottom: 30px;
@@ -168,9 +168,6 @@ align-items: center;
   width: 600px;
   vertical-align: middle;
 }
-.brains-content{
-
-}
 .brains-content h5{
   color: #469165;
   font-weight: 500;
@@ -223,7 +220,7 @@ footer{
 .footer-section{
   display: flex;
   justify-content: space-between;
-  border-bottom: 1px solid  #E5E7EB;
+  border-bottom: 1px solid  #e5e7eb62;
   padding-bottom: 40px;
 }
 .social P{
