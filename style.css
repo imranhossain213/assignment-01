@@ -220,7 +220,7 @@ footer{
 .footer-section{
   display: flex;
   justify-content: space-between;
-  border-bottom: 1px solid  #e5e7eb62;
+  border-bottom: 1px solid  #e5e7eb6e;
   padding-bottom: 40px;
 }
 .social P{
